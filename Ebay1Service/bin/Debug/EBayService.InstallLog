@@ -1,0 +1,395 @@
+﻿Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Creating EventLog source eBayHelperService in log Application...
+Rolling back assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Restoring event log to previous state for source eBayHelperService.
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Warning: The source eBayHelperService is not registered on the local machine.
+Service eBayHelperService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Attempt to stop service eBayHelperService.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Uninstalling assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Removing EventLog source eBayHelperService.
+Service eBayHelperService is being removed from the system...
+Service eBayHelperService was successfully removed from the system.
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe
+Installing service eBayHelperService...
+Service eBayHelperService has been successfully installed.
+Creating EventLog source eBayHelperService in log Application...
+Committing assembly 'c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.InstallLog
+   assemblypath = c:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1Service\bin\Debug\EBayService.exe

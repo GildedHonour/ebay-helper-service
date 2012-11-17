@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\bin\Debug\EBayConsole.exe.config
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\bin\Debug\EBayConsole.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\bin\Debug\EBayConsole.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\bin\Debug\eBay.Service.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\obj\x86\Debug\EBayConsole.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\obj\x86\Debug\EBayConsole.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Ebay1\Ebay1\obj\x86\Debug\EBayConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,337 @@
+[11/17/2012 6:48:22 PM, Informational]
+https://api.sandbox.ebay.com/wsapi?callname=GetItem&siteid=0&client=netsoap
+
+[11/17/2012 6:48:27 PM, Informational]
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <soap:Header>
+    <RequesterCredentials xmlns="urn:ebay:apis:eBLBaseComponents">
+      <eBayAuthToken>******</eBayAuthToken>
+    </RequesterCredentials>
+  </soap:Header>
+  <soap:Body>
+    <GetItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+      <MessageID>d01d1621-9a40-41c4-82fe-1ec5e120a719</MessageID>
+      <Version>787</Version>
+      <ItemID>110108986399</ItemID>
+    </GetItemRequest>
+  </soap:Body>
+</soap:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Body>
+    <GetItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+      <Timestamp>2012-11-17T11:48:26.339Z</Timestamp>
+      <Ack>Success</Ack>
+      <CorrelationID>d01d1621-9a40-41c4-82fe-1ec5e120a719</CorrelationID>
+      <Version>795</Version>
+      <Build>E795_CORE_BUNDLED_15452495_R1</Build>
+      <Item>
+        <ApplicationData>my application data</ApplicationData>
+        <AutoPay>false</AutoPay>
+        <BuyerProtection>ItemIneligible</BuyerProtection>
+        <BuyItNowPrice currencyID="USD">0.0</BuyItNowPrice>
+        <Country>US</Country>
+        <Currency>USD</Currency>
+        <GiftIcon>0</GiftIcon>
+        <HitCounter>NoHitCounter</HitCounter>
+        <ItemID>110108986399</ItemID>
+        <ListingDetails>
+          <Adult>false</Adult>
+          <BindingAuction>false</BindingAuction>
+          <CheckoutEnabled>true</CheckoutEnabled>
+          <ConvertedBuyItNowPrice currencyID="USD">0.0</ConvertedBuyItNowPrice>
+          <ConvertedStartPrice currencyID="USD">2221.0</ConvertedStartPrice>
+          <ConvertedReservePrice currencyID="USD">0.0</ConvertedReservePrice>
+          <HasReservePrice>false</HasReservePrice>
+          <StartTime>2012-10-25T03:56:08.000Z</StartTime>
+          <EndTime>2012-10-25T05:34:40.000Z</EndTime>
+          <ViewItemURL>http://cgi.sandbox.ebay.com/My-ItemTitle-/110108986399</ViewItemURL>
+          <HasUnansweredQuestions>false</HasUnansweredQuestions>
+          <HasPublicMessages>false</HasPublicMessages>
+          <ExpressListing>false</ExpressListing>
+          <ViewItemURLForNaturalSearch>http://cgi.sandbox.ebay.com/My-ItemTitle-/110108986399</ViewItemURLForNaturalSearch>
+        </ListingDetails>
+        <ListingDuration>Days_5</ListingDuration>
+        <ListingType>FixedPriceItem</ListingType>
+        <Location>San Jose</Location>
+        <PaymentMethods>PayPal</PaymentMethods>
+        <PayPalEmailAddress>my@test.com</PayPalEmailAddress>
+        <PrimaryCategory>
+          <CategoryID>11104</CategoryID>
+          <CategoryName>Books:Cookbooks</CategoryName>
+        </PrimaryCategory>
+        <PrivateListing>false</PrivateListing>
+        <Quantity>111</Quantity>
+        <ReservePrice currencyID="USD">0.0</ReservePrice>
+        <ReviseStatus>
+          <ItemRevised>false</ItemRevised>
+        </ReviseStatus>
+        <Seller>
+          <AboutMePage>false</AboutMePage>
+          <Email>gbarlev@no1tradingjack.com</Email>
+          <FeedbackScore>500</FeedbackScore>
+          <PositiveFeedbackPercent>0.0</PositiveFeedbackPercent>
+          <FeedbackPrivate>false</FeedbackPrivate>
+          <FeedbackRatingStar>Purple</FeedbackRatingStar>
+          <IDVerified>true</IDVerified>
+          <eBayGoodStanding>true</eBayGoodStanding>
+          <NewUser>false</NewUser>
+          <RegistrationDate>2010-01-01T00:00:00.000Z</RegistrationDate>
+          <Site>US</Site>
+          <Status>Confirmed</Status>
+          <UserID>testuser_no1tradingjack</UserID>
+          <UserIDChanged>false</UserIDChanged>
+          <UserIDLastChanged>2012-09-24T21:08:47.000Z</UserIDLastChanged>
+          <VATStatus>NoVATTax</VATStatus>
+          <SellerInfo>
+            <AllowPaymentEdit>true</AllowPaymentEdit>
+            <CheckoutEnabled>true</CheckoutEnabled>
+            <CIPBankAccountStored>false</CIPBankAccountStored>
+            <GoodStanding>true</GoodStanding>
+            <LiveAuctionAuthorized>false</LiveAuctionAuthorized>
+            <MerchandizingPref>OptIn</MerchandizingPref>
+            <QualifiesForB2BVAT>false</QualifiesForB2BVAT>
+            <StoreOwner>false</StoreOwner>
+            <ExpressEligible>false</ExpressEligible>
+            <ExpressWallet>false</ExpressWallet>
+            <SafePaymentExempt>false</SafePaymentExempt>
+          </SellerInfo>
+          <MotorsDealer>false</MotorsDealer>
+        </Seller>
+        <SellingStatus>
+          <BidCount>0</BidCount>
+          <BidIncrement currencyID="USD">0.0</BidIncrement>
+          <ConvertedCurrentPrice currencyID="USD">2221.0</ConvertedCurrentPrice>
+          <CurrentPrice currencyID="USD">2221.0</CurrentPrice>
+          <LeadCount>0</LeadCount>
+          <MinimumToBid currencyID="USD">2221.0</MinimumToBid>
+          <QuantitySold>0</QuantitySold>
+          <ReserveMet>true</ReserveMet>
+          <SecondChanceEligible>false</SecondChanceEligible>
+          <ListingStatus>Completed</ListingStatus>
+        </SellingStatus>
+        <ShippingDetails>
+          <ApplyShippingDiscount>false</ApplyShippingDiscount>
+          <PaymentInstructions>eBay DotNet SDK test instruction.</PaymentInstructions>
+          <SalesTax>
+            <SalesTaxPercent>0.0</SalesTaxPercent>
+            <ShippingIncludedInTax>false</ShippingIncludedInTax>
+          </SalesTax>
+          <ShippingServiceOptions>
+            <ShippingService>ShippingMethodStandard</ShippingService>
+            <ShippingServiceCost currencyID="USD">1.0</ShippingServiceCost>
+            <ShippingServiceAdditionalCost currencyID="USD">1.0</ShippingServiceAdditionalCost>
+            <ShippingServicePriority>1</ShippingServicePriority>
+            <ExpeditedService>false</ExpeditedService>
+            <ShippingTimeMin>1</ShippingTimeMin>
+            <ShippingTimeMax>5</ShippingTimeMax>
+          </ShippingServiceOptions>
+          <ShippingServiceOptions>
+            <ShippingService>ShippingMethodExpress</ShippingService>
+            <ShippingServiceCost currencyID="USD">1.0</ShippingServiceCost>
+            <ShippingServiceAdditionalCost currencyID="USD">1.0</ShippingServiceAdditionalCost>
+            <ShippingServicePriority>2</ShippingServicePriority>
+            <ExpeditedService>false</ExpeditedService>
+            <ShippingTimeMin>1</ShippingTimeMin>
+            <ShippingTimeMax>3</ShippingTimeMax>
+          </ShippingServiceOptions>
+          <ShippingType>Flat</ShippingType>
+          <ThirdPartyCheckout>false</ThirdPartyCheckout>
+          <ShippingDiscountProfileID>0</ShippingDiscountProfileID>
+          <InternationalShippingDiscountProfileID>0</InternationalShippingDiscountProfileID>
+          <SellerExcludeShipToLocationsPreference>false</SellerExcludeShipToLocationsPreference>
+        </ShippingDetails>
+        <ShipToLocations>US</ShipToLocations>
+        <Site>US</Site>
+        <StartPrice currencyID="USD">2221.0</StartPrice>
+        <TimeLeft>PT0S</TimeLeft>
+        <Title>My ItemTitle</Title>
+        <HitCount>0</HitCount>
+        <BestOfferDetails>
+          <BestOfferCount>0</BestOfferCount>
+          <BestOfferEnabled>true</BestOfferEnabled>
+        </BestOfferDetails>
+        <GetItFast>false</GetItFast>
+        <PictureDetails>
+          <PhotoDisplay>None</PhotoDisplay>
+        </PictureDetails>
+        <DispatchTimeMax>1</DispatchTimeMax>
+        <ProxyItem>false</ProxyItem>
+        <BuyerGuaranteePrice currencyID="USD">20000.0</BuyerGuaranteePrice>
+        <IntangibleItem>false</IntangibleItem>
+        <ReturnPolicy>
+          <RefundOption>MoneyBack</RefundOption>
+          <Refund>Money Back</Refund>
+          <ReturnsWithinOption>Days_14</ReturnsWithinOption>
+          <ReturnsWithin>14 Days</ReturnsWithin>
+          <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+          <ReturnsAccepted>Returns Accepted</ReturnsAccepted>
+          <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+          <ShippingCostPaidBy>Buyer</ShippingCostPaidBy>
+          <RestockingFeeValue>No</RestockingFeeValue>
+          <RestockingFeeValueOption>NoRestockingFee</RestockingFeeValueOption>
+        </ReturnPolicy>
+        <PaymentAllowedSite>eBayMotors</PaymentAllowedSite>
+        <PaymentAllowedSite>CanadaFrench</PaymentAllowedSite>
+        <PaymentAllowedSite>Canada</PaymentAllowedSite>
+        <PaymentAllowedSite>US</PaymentAllowedSite>
+        <ConditionID>1000</ConditionID>
+        <ConditionDisplayName>Brand New</ConditionDisplayName>
+        <PostCheckoutExperienceEnabled>false</PostCheckoutExperienceEnabled>
+      </Item>
+    </GetItemResponse>
+  </soapenv:Body>
+</soapenv:Envelope>
+
+[11/17/2012 6:48:27 PM, Informational]
+https://api.sandbox.ebay.com/wsapi?callname=RelistItem&siteid=0&client=netsoap
+
+[11/17/2012 6:48:32 PM, Informational]
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <soap:Header>
+    <RequesterCredentials xmlns="urn:ebay:apis:eBLBaseComponents">
+      <eBayAuthToken>******</eBayAuthToken>
+    </RequesterCredentials>
+  </soap:Header>
+  <soap:Body>
+    <RelistItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+      <MessageID>4feb831d-c8bd-4673-8cdf-eaa40ef55b30</MessageID>
+      <Version>787</Version>
+      <Item>
+        <ItemID>110108986399</ItemID>
+        <Quantity>123</Quantity>
+        <StartPrice currencyID="USD">123</StartPrice>
+      </Item>
+    </RelistItemRequest>
+  </soap:Body>
+</soap:Envelope>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Body>
+    <RelistItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+      <Timestamp>2012-11-17T11:48:31.891Z</Timestamp>
+      <Ack>Success</Ack>
+      <CorrelationID>4feb831d-c8bd-4673-8cdf-eaa40ef55b30</CorrelationID>
+      <Version>797</Version>
+      <Build>E797_CORE_BUNDLED_15497973_R1</Build>
+      <ItemID>110109685219</ItemID>
+      <Fees>
+        <Fee>
+          <Name>AuctionLengthFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>BoldFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>BuyItNowFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>CategoryFeaturedFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>FeaturedFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>GalleryPlusFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>FeaturedGalleryFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>FixedPriceDurationFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>GalleryFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>GiftIconFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>HighLightFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>InsertionFee</Name>
+          <Fee currencyID="USD">0.5</Fee>
+        </Fee>
+        <Fee>
+          <Name>InternationalInsertionFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>ListingDesignerFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>ListingFee</Name>
+          <Fee currencyID="USD">0.5</Fee>
+        </Fee>
+        <Fee>
+          <Name>PhotoDisplayFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>PhotoFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>ReserveFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>SchedulingFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>SubtitleFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>BorderFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>ProPackBundleFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>BasicUpgradePackBundleFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>ValuePackBundleFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>PrivateListingFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>ProPackPlusBundleFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+        <Fee>
+          <Name>MotorsGermanySearchFee</Name>
+          <Fee currencyID="USD">0.0</Fee>
+        </Fee>
+      </Fees>
+      <StartTime>2012-11-17T11:48:28.204Z</StartTime>
+      <EndTime>2012-11-22T11:48:28.204Z</EndTime>
+    </RelistItemResponse>
+  </soapenv:Body>
+</soapenv:Envelope>
+

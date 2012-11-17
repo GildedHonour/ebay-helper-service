@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="C9420A57-C0E6-47A8-90D3-BB9FD0DF7574" ModuleId="Ebay1" />
+  <Module PersistentId="B1501F76-B68F-4643-9411-BED1654E124F" ModuleId="Ebay1Service" />
+  <Module PersistentId="d:Tests" ModuleId="mscorlib" />
+  <Module PersistentId="eBay.Service, Version=3.787.0.0, Culture=neutral, PublicKeyToken=1d9d786a5932eaf0" ModuleId="eBay.Service" />
+</Modules>
